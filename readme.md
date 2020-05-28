@@ -6,4 +6,5 @@ This project it's to learn DevOps
 2. [python excercises](python.py)
 
 #resources
-flowcharts (https:\\www.io.com)
+
+flowcharts (https:www.io.com)
